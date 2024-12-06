@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">This is my GitHub. Here, I share the code for projects I consider most important. Welcome!</p>
+<p align="left">This is my GitHub. Here, I share the code and projects I consider most important. Welcome!</p>
 
 ###
 
