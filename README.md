@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My main interests lie in work related to data science, data analysis and <br>artificial intelligence, but I am also interested in the areas of health,education and finance.<br>Data Science, Data Analysis and AI</p>
+<p align="left">This is my GitHub. Here, I share the code for projects I consider most important. Welcome!</p>
 
 ###
 
