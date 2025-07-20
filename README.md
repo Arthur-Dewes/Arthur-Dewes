@@ -1,37 +1,53 @@
-<h1 align="left">About Me</h1>
+<h1 align="left">Welcome</h1>
 
 ###
 
-<p align="left">This is my GitHub. Here, I share the code and projects I consider most important. Welcome!</p>
+<p align="left">This is my GitHub. Here, I share the code and projects I consider most important.</p>
 
 ###
 
-<h2 align="left">Techs</h2>
+<h1 align="left">Techs</h1>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
 
 ###
 
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur-Dewes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="125" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Dewes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="125" alt="stats graph"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
 ###
 
-<h2 align="left">Social Media</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+</div>
+
+###
+
+<h1 align="left">Stats</h1>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur-Dewes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="125" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Dewes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="125" alt="stats graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Arthur-Dewes/Arthur-Dewes/output/snake.svg" alt="Snake animation" />
 
 ###
 
