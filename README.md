@@ -47,7 +47,6 @@
   <a href="https://www.linkedin.com/in/eduarda-vieira-gon%C3%A7alves-01a584297/" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0e76a8&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn logo" />
   </a>
-  <img width="12" />
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eduarda.vieira.goncalves7@gmail.com" target="_blank" title="Gmail">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail logo" />
   </a>
