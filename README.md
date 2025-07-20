@@ -44,12 +44,11 @@
 <h2 align="left">Contact</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/arthur-dewes-8570b5230/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
-  </a>
-  <img width="12" />
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=arthurgdewes@gmail.com&tf=cm" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/arthur-dewes-8570b5230/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
 </div>
 
