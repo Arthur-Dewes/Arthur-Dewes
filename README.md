@@ -55,7 +55,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Arthur-Dewes/Arthur-Dewes/output/snake.svg" alt="Snake animation" />
+<h2 align="left">Contact</h2>
 
 ###
 
@@ -69,3 +69,8 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/Arthur-Dewes/Arthur-Dewes/output/snake.svg" alt="Snake animation" />
+
+###
+
+
