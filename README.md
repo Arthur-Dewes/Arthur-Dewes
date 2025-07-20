@@ -6,11 +6,11 @@
 
 ###
 
-<h1 align="center">Languages</h1>
+<h2 align="left">Languages</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
@@ -20,11 +20,11 @@
 
 ###
 
-<h1 align="center">Frameworks</h1>
+<h2 align="left">Frameworks</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
@@ -32,11 +32,11 @@
 
 ###
 
-<h1 align="center">Technologies & Tools</h1>
+<h2 align="left">Technologies & Tools</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
@@ -44,11 +44,11 @@
 
 ###
 
-<h1 align="center">Stats</h1>
+<h2 align="left">Stats</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur-Dewes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="125" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Dewes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="125" alt="stats graph"  />
 </div>
