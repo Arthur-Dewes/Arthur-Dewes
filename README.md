@@ -14,8 +14,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
 </div>
 
----
-
 <h2 align="left">Frameworks</h2>
 
 <div align="left">
@@ -23,8 +21,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
 </div>
-
----
 
 <h2 align="left">Technologies & Tools</h2>
 
